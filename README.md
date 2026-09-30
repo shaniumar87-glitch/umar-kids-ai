@@ -1,42 +1,57 @@
-# Umar Kids AI
+# 🚀 Umar Kids AI
 
-A fun and educational Android learning app designed for kids.
+**Learn • Play • Grow**
 
-## About the App
+Umar Kids AI is a fun, colorful and interactive educational Android app designed especially for young children. It helps kids learn through simple activities, sounds, pictures, quizzes and rewards.
 
-Umar Kids AI helps children learn through simple, colorful and interactive activities. The app supports both English and Urdu learning.
+## 🌟 Features
 
-## Features
+- 🔤 Learn ABC (A-Z) with pictures and pronunciation
+- 🐯 Learn Animals with names and sounds
+- ⭐ Fun educational quizzes and rewards
+- 📖 Kids Stories with moral lessons
+- 🏆 Daily Challenges and bonus stars
+- 🔊 Voice and pronunciation activities
+- 🌐 English & Urdu learning
+- 🎨 Colorful and child-friendly interface
+- 🔒 No login required
+- 🛡️ No personal data collection
+- 👶 Designed especially for young learners
 
-- Learn ABC (A-Z)
-- Learn animals with pictures and sounds
-- Fun educational quizzes
-- English and Urdu learning activities
-- Simple and child-friendly interface
-- No login required
-- Designed for young learners
+## 📱 Download Umar Kids AI
 
-## Download Umar Kids AI
+Download the latest Android APK from the **Releases** section of this GitHub repository.
 
-Download the latest Android APK from the Releases section of this repository.
+**Latest Version:** v1.0.0  
+**Platform:** Android  
+**Language:** English & Urdu
 
-**Latest Version:** v1.0.0
+## 🎯 Learning Categories
 
-Go to **Releases → Umar Kids AI v1.0.0 → Assets → app-release.apk**
+Umar Kids AI currently includes:
 
-## How to Install
+- Alphabet Learning
+- Animals & Sounds
+- Fun Quiz
+- Kids Stories
+- Daily Challenge
+- English & Urdu Activities
 
-1. Download `app-release.apk`.
-2. Open the downloaded APK on your Android phone.
-3. If Android asks for permission, allow installation from that source.
-4. Tap **Install**.
-5. Open **Umar Kids AI** and start learning.
+## 🔐 Kids Safety
 
-## Developer
+Umar Kids AI is designed with children in mind.
+
+- No account required
+- No personal information required
+- Simple kid-friendly experience
+
+## 👨‍💻 Developer
 
 **Muhammad Umar**  
 Karachi, Pakistan
 
-## Current Version
+Developed as an educational project to make learning simple, interactive and enjoyable for children.
 
-Umar Kids AI v1.0.0
+---
+
+⭐ If you like Umar Kids AI, please give this repository a **Star**!
